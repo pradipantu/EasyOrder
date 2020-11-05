@@ -1,0 +1,18 @@
+com/society/OrderIn/service/impl/CustomerServiceImpl.java
+ com.society.OrderIn.service.impl.CustomerServiceImpl
+com/society/OrderIn/OrderInApplication.java
+ com.society.OrderIn.OrderInApplication
+com/society/OrderIn/repo/CustomerRepo.java
+ com.society.OrderIn.repo.CustomerRepo
+com/society/OrderIn/model/Customer.java
+ com.society.OrderIn.model.Customer
+com/society/OrderIn/amq/MessageCreator.java
+ com.society.OrderIn.amq.MessageCreator
+com/society/OrderIn/service/CustomerService.java
+ com.society.OrderIn.service.CustomerService
+com/society/OrderIn/amq/MessageReceiver.java
+ com.society.OrderIn.amq.MessageReceiver
+com/society/OrderIn/controller/OrderInController.java
+ com.society.OrderIn.controller.OrderInController
+com/society/OrderIn/camel/CamelRoutes.java
+ com.society.OrderIn.camel.CamelRoutes
